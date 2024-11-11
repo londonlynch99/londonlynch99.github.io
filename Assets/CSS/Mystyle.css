@@ -11,6 +11,6 @@ h1 { text-align: center;}
 
 .roboto-thin {
     font-family:"Roboto", sans-serif;
-    font-weight:100;
-    font-style:normal;
+    font-weight:200;
+    font-style:italics;
   }
