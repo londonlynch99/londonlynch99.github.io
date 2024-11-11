@@ -1,0 +1,14 @@
+h1 {
+    color: blue;}
+body {
+    background-image: url("../Assets/IMG/Tom_Cat_Reading_a_Newspaper.jpg") ;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    color:aquamarine;
+    text-decoration-line: underline;
+    text-decoration-color:blue;
+    text-decoration-style: solid;
+    text-decoration-thickness: auto;
+
+}
