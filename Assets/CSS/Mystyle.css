@@ -17,6 +17,17 @@ h1 { text-align: center;}
   a:link {
     color:blueviolet;
   }
+  a:visited {
+    color:chartreuse
+  }
   a:hover{
     color:darkslateblue;
   }
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline block;
+}
